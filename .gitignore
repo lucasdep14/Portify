@@ -1,0 +1,6 @@
+# Negeer lokale database configuratie
+config.json
+**/config.json
+.vs/
+bin/
+obj/
